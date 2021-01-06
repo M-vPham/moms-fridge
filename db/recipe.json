@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Canh Can Trang",
+        "Ingredients": ["Napa Cabbage","Water", "Chicken Broth Powder", "Shrimp", "Parsley", "Onion", "Green Onion"],
+        "Steps": [
+            "1. Boil 4 cups of water with 2 tbsp of chicken broth powder, onions and green onions.",
+            "2. Cut Napa Cabbage to bite sizes pieces.",
+            "3. Clean and de-vein the shrimp. Cut the shrimp into halves.",
+            "4. When the Broth is boiling add in shrimp.",
+            "5. Wait for the water to boil again, add in the the cabbage.",
+            "6. Turn off the heat and add parsley in."
+        ],
+        "Meal": "Soup"
+    },
+    {
+        "Name": "Thit Kho",
+        "Ingredients": ["Pork Belly","Shallots", "Lemon Grass", "Fish Sauce", "Sugar", "Salt", "Caramel", "Oyster Sauce"],
+        "Steps": [
+            "1. Sauté shallots on medium heat.",
+            "2. Add the chopped up pork belly. Add lemongrass, fish sauce, caramel, and sugar",
+            "3. Sauté until golden brown. Add 1/4 cup of water and cook until the water reduces into a sauce.",
+            "4. Add oyster sauce at the end and turn off the heat"
+        ],
+        "Meal": "Entre"
+    }
+]
